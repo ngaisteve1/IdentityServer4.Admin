@@ -45,6 +45,11 @@ Project template options:
 --dockersupport: [boolean value] include docker support
 ```
 
+## Project Dependencies
+
+![Shoguba1](https://user-images.githubusercontent.com/21274590/89111468-bffea980-d488-11ea-9fba-49d38826ea51.PNG)
+![Shoguba2](https://user-images.githubusercontent.com/21274590/89111470-c3923080-d488-11ea-953c-d132ccaac6f8.PNG)
+
 ## How to configure the Administration - IdentityServer4 and Asp.Net Core Identity
 
 - [Follow these steps for setup project to use existing IdentityServer4 and Asp.Net Core Identity](docs/Configure-Administration.md)
